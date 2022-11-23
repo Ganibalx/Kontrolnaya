@@ -35,7 +35,7 @@ string[] calculation(string[] array)
            result[a]= array[i];                       
         }
     }
-    return result;
+    return result;пше
 }
 
 void Print(string[] array)
