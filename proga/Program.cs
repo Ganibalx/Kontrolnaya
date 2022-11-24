@@ -17,7 +17,7 @@ int Input_razmer()
 
 string[] calculation(string[] array)
 {
-    int a = -1;
+    int a = 0;
     for(int i = 0; i < array.Length; i++)
     {
         if(array[i].Length <= 3)
@@ -25,7 +25,7 @@ string[] calculation(string[] array)
             a++;                       
         }
     }
-    string[] result = new string[a+1];
+    string[] result = new string[a];
     a = -1;
     for(int i = 0; i < array.Length; i++)
     {
@@ -35,7 +35,7 @@ string[] calculation(string[] array)
            result[a]= array[i];                       
         }
     }
-    return result;пше
+    return result;
 }
 
 void Print(string[] array)

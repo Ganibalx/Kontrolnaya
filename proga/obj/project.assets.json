@@ -8,26 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Savoc\\.nuget\\packages\\": {}
+    "C:\\Users\\Пермэнерго\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TEACH\\Isem\\proga\\proga.csproj",
+      "projectUniqueName": "C:\\Kontrolnaya\\proga\\proga.csproj",
       "projectName": "proga",
-      "projectPath": "D:\\TEACH\\Isem\\proga\\proga.csproj",
-      "packagesPath": "C:\\Users\\Savoc\\.nuget\\packages\\",
-      "outputPath": "D:\\TEACH\\Isem\\proga\\obj\\",
+      "projectPath": "C:\\Kontrolnaya\\proga\\proga.csproj",
+      "packagesPath": "C:\\Users\\Пермэнерго\\.nuget\\packages\\",
+      "outputPath": "C:\\Kontrolnaya\\proga\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Savoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Пермэнерго\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -61,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
